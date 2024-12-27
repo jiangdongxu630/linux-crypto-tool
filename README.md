@@ -1,2 +1,9 @@
 # linux-crypto-tool
-#JDX
+#INTRDUCE：
+#。。。。。
+#。。。。
+#How to use
+#.....
+#.....
+#Information
+
